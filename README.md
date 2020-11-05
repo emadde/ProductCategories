@@ -2,7 +2,7 @@
 
 Hi,
 
-All of the framework has been built out for you. Please look at the [Products and Categories for DTCC.pdf] (Products and Categories for DTCC.pdf) for what fields are being asked of you. Use the basic CRUD Repo methods to build our your service.
+All of the framework has been built out for you. Please look at the [Products and Categories for DTCC.pdf](Products and Categories for DTCC.pdf) for what fields are being asked of you. Use the basic CRUD Repo methods to build our your service.
 
 * Yes nothing will work right now.
 * Yes there are errors, you need to fix them.
