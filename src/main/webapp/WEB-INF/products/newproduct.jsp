@@ -14,18 +14,18 @@
 <body>
 <form:form method="POST" action="/products/createproduct" modelAttribute="newproduct">
 	<div class="form form-group">
-	<form:label path="name">Product Name:
-	<form:errors path="name"/>
-	<form:input path="name"/></form:label>
+	<form:label path="productName">Product Name:
+	<form:errors path="productName"/>
+	<form:input path="productName"/></form:label>
 	</div>
 	
 	<div class="form form-group">
-	<form:label path="description">Description:
+	<form:label path="description">description:
 	<form:errors path="description"/>
 	<form:input path="description"/></form:label>
 	</div>
 		<div class="form form-group">
-	<form:label path="price">Price:
+	<form:label path="price">price:
 	<form:errors path="price"/>
 	<form:input path="price"/></form:label>
 	</div>
